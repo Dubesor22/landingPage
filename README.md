@@ -36,8 +36,16 @@ Recomiendo Usar [Responsively](https://responsively.app/) para poder ver las dif
 
 ## Autores ✒️
 
-* **David Ubeda Soriano** - *Trabajo Inicial* - [David Ubeda](https://github.com/dubesor22)
+* **David Ubeda Soriano** - *El picaCodigo* - [David Ubeda](https://github.com/dubesor22)
+* **Yolanda** - artista invitada - [yol](https://instagram.com/yol_rnd)
 
+## WebGrafia 💻
+
+* ayudas con la sintaxis, selectores y propiedades [w3Schools](https://www.w3schools.com)
+* ya tu sabe.... [stackOverflow](https://www.stackoverflow.com)
+* Svgs y demas [heroIcons](https://www.heroicons.com)
+* Ideas para cosetes de FrontEnd [freeFrontEnd](https://www.freefrontend.com)
+* Nuestro Diós y salvador [google](https://www.google.con)
 
 ## Licencia 📄
 
