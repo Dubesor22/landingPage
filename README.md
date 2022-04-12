@@ -19,9 +19,9 @@ Para descargar o clonar el repositorio pincha [AQUI](https://github.com/Dubesor2
 Esta pagina son todo ventajas no tienes que instalar nada para verla, solo un ordenador con conexion a internet y si estas leyendo esto.... TARAAAA🎊🎊 esque eso ya lo tienes.
 
 
-## Ejecutando las pruebas ⚙️
+## Teaser 💻
 
-puedes inspeccionar el codigo para ver como lo he estructurado.
+<a href="https://ibb.co/DwxHQL5"><img src="https://i.ibb.co/ss0dqty/Teaser-Inicio-Landing.jpg" alt="Teaser-Inicio-Landing" border="0"></a>
 
 
 ## Construido con 🛠️
