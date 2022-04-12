@@ -1,13 +1,18 @@
-# Landing Page
+# Landing Page (proyecto personal)
 
-Construccion de una pagina personal, pero muuuuy personal y mucho personal.
+Construccion de una pagina personal (actualmente llamadas Landing Pages), pero muuuuy personal y mucho personal.
+
+## Tecnologias
+
+* HTML5
+* CSS3 (flex-box y Grid)
 
 ## Comenzando 🚀
 
 accede a mi repo para descargar cuanto necesites
+[Repo. David Ubeda](https://github.com/dubesor22)
 
-Mira **Deployment** para conocer como desplegar el proyecto.
-
+Para descargar o clonar el repositorio pincha [AQUI](https://github.com/Dubesor22/landingPage)
 
 ### Pre-requisitos 📋
 
